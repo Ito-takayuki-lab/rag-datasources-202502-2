@@ -1,0 +1,115 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u6d6a\u6c5f\u753a\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u63a8\u9032\u8a08\u753b\u306b\u3064\u3044\u3066",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.228515625,
+          101.138671875
+        ],
+        [
+          418.771484375,
+          101.138671875
+        ],
+        [
+          418.771484375,
+          114.35205078125
+        ],
+        [
+          177.228515625,
+          114.35205078125
+        ]
+      ]
+    },
+    {
+      "title": "1.\u6d6a\u6c5f\u753a\u306e\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u4f4d\u7f6e\u3065\u3051",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.10399627685547,
+          137.52392578125
+        ],
+        [
+          326.51953125,
+          137.52392578125
+        ],
+        [
+          326.51953125,
+          150.35205078125
+        ],
+        [
+          85.10399627685547,
+          150.35205078125
+        ]
+      ]
+    },
+    {
+      "title": "2.\u6d6a\u6c5f\u753a\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u63a8\u9032\u8a08\u753b\u306e\u76ee\u7684\u3001\u5185\u5bb9",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.10399627685547,
+          506.9267578125
+        ],
+        [
+          373.373046875,
+          506.9267578125
+        ],
+        [
+          373.373046875,
+          519.4019775390625
+        ],
+        [
+          85.10399627685547,
+          519.4019775390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/28949_109080_misc"
+}

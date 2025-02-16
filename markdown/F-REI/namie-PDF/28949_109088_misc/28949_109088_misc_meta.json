@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u5c0e\u5165\u30dd\u30c6\u30f3\u30b7\u30e3\u30eb\u306e\u63a8\u8a08",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.03759765625,
+          58.99755859375
+        ],
+        [
+          300.04998779296875,
+          58.99755859375
+        ],
+        [
+          300.04998779296875,
+          71.85205078125
+        ],
+        [
+          53.03759765625,
+          71.85205078125
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u5c0e\u5165\u30dd\u30c6\u30f3\u30b7\u30e3\u30eb\u306e\u4f4d\u7f6e\u3065\u3051\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          77.23663330078125
+        ],
+        [
+          225.17001342773438,
+          77.23663330078125
+        ],
+        [
+          225.17001342773438,
+          89.9866943359375
+        ],
+        [
+          54.0,
+          89.9866943359375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u524d\u63d0\u6761\u4ef6\u30fb\u63a8\u8a08\u65b9\u6cd5\u7b49\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          211.322265625
+        ],
+        [
+          192.0500030517578,
+          211.322265625
+        ],
+        [
+          192.0500030517578,
+          223.65625
+        ],
+        [
+          54.0,
+          223.65625
+        ]
+      ]
+    },
+    {
+      "title": "\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u5c0e\u5165\u30dd\u30c6\u30f3\u30b7\u30e3\u30eb\u306e\u63a8\u8a08",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.4013671875,
+          59.511474609375
+        ],
+        [
+          300.04998779296875,
+          59.511474609375
+        ],
+        [
+          300.04998779296875,
+          71.85205078125
+        ],
+        [
+          53.4013671875,
+          71.85205078125
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u691c\u8a0e\u7d50\u679c\u3011",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          77.23663330078125
+        ],
+        [
+          125.77999114990234,
+          77.23663330078125
+        ],
+        [
+          125.77999114990234,
+          88.701904296875
+        ],
+        [
+          54.0,
+          88.701904296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/28949_109088_misc"
+}

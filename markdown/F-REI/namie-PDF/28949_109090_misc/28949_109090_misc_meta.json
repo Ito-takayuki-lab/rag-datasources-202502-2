@@ -1,0 +1,127 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u5c0e\u5165\u63a8\u9032\u306b\u5411\u3051\u305f\u30be\u30fc\u30cb\u30f3\u30b0",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.1103515625,
+          53.344482421875
+        ],
+        [
+          336.07000732421875,
+          53.344482421875
+        ],
+        [
+          336.07000732421875,
+          66.21197509765625
+        ],
+        [
+          53.1103515625,
+          66.21197509765625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u571f\u5730\u5229\u7528\u898f\u5236\u7b49\u306b\u57fa\u3065\u304f\u30be\u30fc\u30cb\u30f3\u30b0\u306e\u691c\u8a0e\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          74.4150390625
+        ],
+        [
+          291.40997314453125,
+          74.4150390625
+        ],
+        [
+          291.40997314453125,
+          86.59661865234375
+        ],
+        [
+          54.0,
+          86.59661865234375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u691c\u8a0e\u7d50\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          336.306640625
+        ],
+        [
+          125.77999114990234,
+          336.306640625
+        ],
+        [
+          125.77999114990234,
+          348.2294921875
+        ],
+        [
+          54.0,
+          348.2294921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/28949_109090_misc"
+}

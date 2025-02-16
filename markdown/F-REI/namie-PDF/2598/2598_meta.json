@@ -1,0 +1,309 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u5834\n\u6709\n(\u9001\u6599\u7121\u8868",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          437.43105590062106,
+          338.692626953125
+        ],
+        [
+          455.43850931677014,
+          338.692626953125
+        ],
+        [
+          455.43850931677014,
+          448.23909249563695
+        ],
+        [
+          437.43105590062106,
+          448.23909249563695
+        ]
+      ]
+    },
+    {
+      "title": "\u6afb\u4e95",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.3813664596273,
+          338.90234375
+        ],
+        [
+          330.3125,
+          338.90234375
+        ],
+        [
+          330.3125,
+          396.51919720767887
+        ],
+        [
+          317.3813664596273,
+          396.51919720767887
+        ]
+      ]
+    },
+    {
+      "title": "\u308a\u3001 \u4e00\u822c\u306e\u96fb\u8a71\u300e \u300e \u300f\u300e \u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f\u300e \u300f",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          383.98828125,
+          611.11474609375
+        ],
+        [
+          426.92670807453413,
+          611.11474609375
+        ],
+        [
+          426.45703125,
+          779.72705078125
+        ],
+        [
+          383.98828125,
+          779.72705078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          142.07861328125,
+          335.756591796875
+        ],
+        [
+          177.6904296875,
+          335.756591796875
+        ],
+        [
+          177.6904296875,
+          550.296875
+        ],
+        [
+          142.07861328125,
+          550.296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/2598"
+}

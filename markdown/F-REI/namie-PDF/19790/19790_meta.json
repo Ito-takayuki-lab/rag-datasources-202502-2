@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u4ee4\u548c4\u5e74\u5ea6 \u7b2c 2 \u56de \u6d6a\u6c5f\u753a\u74b0\u5883\u5be9\u8b70\u4f1a \u8b70\u4e8b\u9332",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          150.455078125,
+          95.7939453125
+        ],
+        [
+          447.291015625,
+          95.7939453125
+        ],
+        [
+          447.291015625,
+          110.18359375
+        ],
+        [
+          150.455078125,
+          110.18359375
+        ]
+      ]
+    },
+    {
+      "title": "2.\u8b70\u984c",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.35302734375,
+          520.494140625
+        ],
+        [
+          110.65869140625,
+          520.494140625
+        ],
+        [
+          110.65869140625,
+          532.005859375
+        ],
+        [
+          70.35302734375,
+          532.005859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/19790"
+}

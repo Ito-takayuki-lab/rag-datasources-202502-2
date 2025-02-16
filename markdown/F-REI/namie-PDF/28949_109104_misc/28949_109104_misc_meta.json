@@ -1,0 +1,336 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u6d6a\u6c5f\u753a\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u63a8\u9032\u8a08\u753b\u691c\u8a0e\u59d4\u54e1\u4f1a(\u7b2c 3 \u56de) \u8a18\u9332\u7c3f",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5712890625,
+          91.1173095703125
+        ],
+        [
+          438.42999267578125,
+          91.1173095703125
+        ],
+        [
+          438.42999267578125,
+          104.03204345703125
+        ],
+        [
+          70.5712890625,
+          104.03204345703125
+        ]
+      ]
+    },
+    {
+      "title": "1.\u958b\u50ac\u6982\u8981",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.94400024414062,
+          128.787353515625
+        ],
+        [
+          134.3037109375,
+          128.787353515625
+        ],
+        [
+          134.3037109375,
+          139.476806640625
+        ],
+        [
+          70.94400024414062,
+          139.476806640625
+        ]
+      ]
+    },
+    {
+      "title": "2.\u6b21\u7b2c",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.94400024414062,
+          209.78900146484375
+        ],
+        [
+          114.5146484375,
+          209.78900146484375
+        ],
+        [
+          114.5146484375,
+          220.57275390625
+        ],
+        [
+          70.94400024414062,
+          220.57275390625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u914d\u5e03\u8cc7\u6599\u4e00\u89a7\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.22399139404297,
+          356.3389587402344
+        ],
+        [
+          160.3555145263672,
+          356.3389587402344
+        ],
+        [
+          160.3555145263672,
+          367.1416015625
+        ],
+        [
+          76.22399139404297,
+          367.1416015625
+        ]
+      ]
+    },
+    {
+      "title": "4.\u8cea\u7591",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.94400024414062,
+          74.62060546875
+        ],
+        [
+          114.87841796875,
+          74.62060546875
+        ],
+        [
+          114.87841796875,
+          85.9267578125
+        ],
+        [
+          70.94400024414062,
+          85.9267578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/28949_109104_misc"
+}

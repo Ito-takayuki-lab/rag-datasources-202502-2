@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u8cc7\u65992",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          474.064453125,
+          43.19464111328125
+        ],
+        [
+          510.3399963378906,
+          43.19464111328125
+        ],
+        [
+          510.3399963378906,
+          56.37200927734375
+        ],
+        [
+          474.064453125,
+          56.37200927734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/28949_109081_misc"
+}
